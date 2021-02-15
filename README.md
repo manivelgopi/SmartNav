@@ -1,10 +1,10 @@
-# Accord SmartNav - Android App
+# Accord SmartNav
 
-SmartNav android application for navigation...
+SmartNav application..
 
 ## Path
 
-SmartNav app  latest/stable release of apk **[Current Version](https://pip.pypa.io/en/stable/)** or [Stable Version](https://pip.pypa.io/en/stable/) to install.
+SmartNav app  latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)** or [Stable Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55) to install.
 
 Please note. Before install, any version uninstall the old version and install the new version, except the APK update check.
 
@@ -24,13 +24,13 @@ MAC:
 
 ```
 
-Once the emulator ready, Just drag and drop the APK into emulator to install the APK.
+Once the emulator ready, Just drag and drop the APK into Simulator to install the APK.
 
 
 
 ## 🚩 Table of Contents
 * [Version](#collect-statistics-on-the-use-of-open-source)
-    * [Ver 1.0.1 B1](#Ver-101-B10)
+    * [Ver 1.0.1 B1](#Ver-101-B1)
 * [Features](#Features)
     * [Location](#Location)
     * [Waypoints](#Waypoints)
@@ -43,31 +43,67 @@ Once the emulator ready, Just drag and drop the APK into emulator to install the
     * [Tools](#Tools)
     * [Settings](#Settings)
     * [Help](#Help)
-* [Change Log](#Change-Log)
 * [Documents](#documents)
 * [Contributors](#Contributors)
+* [Change Log](#Change-Log)
 * [License](#License)
 
 
 
 ## Version
-### Ver 1.0.1 B1.0
+### Ver 1.0.1 B1.0 
+
+[App APK - **Download**](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)
+
+Source Code link
+#### Comments
+* Initial Release
+
+
+
+
 
 
 ## Features
+   ### Location
+   Location feature from [Ver 1.0.1 B1](#Ver-101-B1)
+   
+   ### Waypoints
+   Waypoints feature from [Ver 1.0.1 B1](#Ver-101-B1)
 
-```python
-import foobar
+   ### Routes
+   Routes feature from [Ver 1.0.1 B1](#Ver-101-B1)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+   ### Track
+   Track feature from [Ver 1.0.1 B1](#Ver-101-B1)
 
-## Change Log
+   ### Navigation
+   Navigation feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+   ### Map
+   Map feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+   ### Satellite Info
+   Satellite Info feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+   ### Sensors
+   Sensors feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+   ### Tools
+   Tools feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+   ### Settings
+   Settings feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+   ### Help
+   Help feature from [Ver 1.0.1 B1](#Ver-101-B1)
+
+
+## Documents and Links
+Redmine - [Login](http://164.164.69.21:3000)
+
 
 ## Contributors
-
 ### Head
 * Rajesh C
 * Parappa P
@@ -92,6 +128,11 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 * Manasa Srinath
 * Ravicharan KB
 * Kavita G
+
+
+## Change Log
+
+Initial release on 15 Feb 2021 by Manivel G
 
 
 ## License

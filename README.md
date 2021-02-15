@@ -29,7 +29,7 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 ## 🚩 Table of Contents
 * [Version](#version)
-    * [Ver 1.0.1 B1](#ver-101-b-1)
+    * [Ver 1.0.1 B1](#ver-101-b-10)
 * [Features](#features)
     * [Location](#location)
     * [Waypoints](#waypoints)
@@ -42,7 +42,7 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
     * [Tools](#tools)
     * [Settings](#settings)
     * [Help](#help)
-* [Documents](#documents)
+* [Documents](#documents-and-links)
 * [Contributors](#contributors)
 * [Change Log](#change-Log)
 * [License](#license)

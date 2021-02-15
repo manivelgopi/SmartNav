@@ -30,7 +30,7 @@ Once the emulator ready, Just drag and drop the APK into emulator to install the
 
 ## 🚩 Table of Contents
 * [Version](#collect-statistics-on-the-use-of-open-source)
-    * [Ver 1.0.1 B1](#Ver-1.0.1-B1.0)
+    * [Ver 1.0.1 B1](#Ver-101-B10)
 * [Features](#Features)
     * [Location](#Location)
     * [Waypoints](#Waypoints)

@@ -24,42 +24,40 @@ MAC:
 
 ```
 
-Once the emulator ready, Just drag and drop the APK into Simulator to install the APK.
-
+Once the android emulator ready, Just drag and drop the APK into the emulator to easily install.
 
 
 ## 🚩 Table of Contents
-* [Version](#collect-statistics-on-the-use-of-open-source)
-    * [Ver 1.0.1 B1](#Ver-101-B1)
-* [Features](#Features)
-    * [Location](#Location)
-    * [Waypoints](#Waypoints)
-    * [Routes](#Routes)
-    * [Track](#Track)
-    * [Navigation](#Navigation)
-    * [Map](#Map)
-    * [Satellite Info](#Satellite-Info)
-    * [Sensors](#Sensors)
-    * [Tools](#Tools)
-    * [Settings](#Settings)
-    * [Help](#Help)
+* [Version](#version)
+    * [Ver 1.0.1 B1](#ver-101-b-1)
+* [Features](#features)
+    * [Location](#location)
+    * [Waypoints](#waypoints)
+    * [Routes](#routes)
+    * [Track](#track)
+    * [Navigation](#navigation)
+    * [Map](#map)
+    * [Satellite Info](#satellite-info)
+    * [Sensors](#sensors)
+    * [Tools](#tools)
+    * [Settings](#settings)
+    * [Help](#help)
 * [Documents](#documents)
-* [Contributors](#Contributors)
-* [Change Log](#Change-Log)
-* [License](#License)
+* [Contributors](#contributors)
+* [Change Log](#change-Log)
+* [License](#license)
 
 
 
 ## Version
-### Ver 1.0.1 B1.0 
+### Ver 1.0.1 B 1.0 
+#### Download
+ * [App APK](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)
 
-[App APK - **Download**](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)
+ * [Source Code link]
 
-Source Code link
 #### Comments
 * Initial Release
-
-
 
 
 

@@ -54,6 +54,8 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 #### Download
  * [App APK](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)
 
+ * [amaze FileManger](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EaFNIt73nz1Fv_IDDSuwhHkBpbMoJkpJnBIz85fYbUERUA?e=a5qFhj)
+
  * [Source Code link]
 
 #### Comments

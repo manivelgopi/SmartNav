@@ -100,6 +100,9 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 ## Documents and Links
 Redmine - [Login](http://164.164.69.21:3000)
 
+Tester Status - [Status Excel](https://accordsoftsys-my.sharepoint.com/:x:/g/personal/manivel_g_accord-soft_com/EZknZxEepNNKn8MSQZqqWgkBJhwG9yc_e1u0YeunWEwANg?e=O2iaPh)
+
+
 
 ## Contributors
 ### Head

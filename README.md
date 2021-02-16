@@ -1,10 +1,10 @@
-# Accord SmartNav
+# Accord Android App
 
-SmartNav application..
+Android App application..
 
 ## Path
 
-SmartNav app  latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)** or [Stable Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55) to install.
+Android App latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)** or [Stable Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55) to install.
 
 Please note. Before install, any version uninstall the old version and install the new version, except the APK update check.
 

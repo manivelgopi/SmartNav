@@ -4,7 +4,7 @@ Android App application..
 
 ## Path
 
-Android App latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)** or [Stable Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55) to install.
+Android App latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/Efonx5z7PSZIpUPJz_9tXi4BfcOqZx80TBcLGfChlB9lYA)**  to install.
 
 Please note. Before install, any version uninstall the old version and install the new version, except the APK update check.
 
@@ -29,6 +29,7 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 ## 🚩 Table of Contents
 * [Version](#version)
+    * [Ver 1.0.2 B1](#ver-102-b-10)
     * [Ver 1.0.1 B1](#ver-101-b-10)
 * [Features](#features)
     * [Location](#location)
@@ -50,13 +51,22 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 
 ## Version
+### Ver 1.0.2 B 1.0 
+#### Download
+ * [App APK](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/Efonx5z7PSZIpUPJz_9tXi4BfcOqZx80TBcLGfChlB9lYA)
+
+ * [amaze FileManger](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EUjoM_vQOIxFiR1BgDAINvYB1o-gwsbwyVLNqbAYNbAa8A)
+
+#### Comments
+* version 1.0.2 build 1 has been released in 24-Feb
+* 
+
+
 ### Ver 1.0.1 B 1.0 
 #### Download
  * [App APK](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EV4QVF3zDstOjS2oVY6i92QBZXDS9lwF4RHe9oaFhwCMow?e=65Gf55)
 
  * [amaze FileManger](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EaFNIt73nz1Fv_IDDSuwhHkBpbMoJkpJnBIz85fYbUERUA?e=a5qFhj)
-
- * [Source Code link]
 
 #### Comments
 * Initial Release

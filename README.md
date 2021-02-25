@@ -59,6 +59,7 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 #### Comments
 * version 1.0.2 build 1 has been released in 24-Feb
+
 Removed features
 * Setting->Defaults
 * settings->Display Settings->Language-> Hindi

@@ -59,7 +59,19 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 #### Comments
 * version 1.0.2 build 1 has been released in 24-Feb
-* 
+Removed features
+* Setting->Defaults
+* settings->Display Settings->Language-> Hindi
+* Settings->GeoSystem settings->Position Format-> MGRS, UTM/UPS 
+
+Newly added features
+* Added time and battery percentage 
+* Added Mark button to create waypoint at current location and zoom scale on Map screen
+* Added Show all waypoints and Hide all waypoints options in Waypoints->Manage Waypoints
+
+Modified Features
+* Settings->Satellite Selection is changed to settings->Receiver Settings-> added option for cold start and warm start
+
 
 
 ### Ver 1.0.1 B 1.0 

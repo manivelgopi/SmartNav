@@ -64,7 +64,7 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
  * [Floris Keyboard](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EdE0egsAmqlNtjC9ZKQkmucBVK2LuLER__i9JUCbhZG7QQ) 
 
 #### Comments
-* version 1.0.6 build 1 has been released in 17-Mar
+* version 1.0.6 build 1 has been released in 22-Mar
 
 APP support
 * ..

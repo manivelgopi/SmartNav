@@ -4,7 +4,7 @@ Android App application..
 
 ## Path
 
-Android App latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EU5_9wjnN4JNowtJlGo-47MBUzHyg-lk85s_pb2zNJQWdQ)**  to install.
+Android App latest/stable release of apk **[Current Version](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EUFzXEG3w6FBkKW_Ct6FWmcB9ANf1icY4gkhydQS5ZcK_Q)**  to install.
 
 Please note. Before install, any version uninstall the old version and install the new version, except the APK update check.
 
@@ -29,6 +29,7 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 ## 🚩 Table of Contents
 * [Version](#version)
+    * [Ver 1.0.7 B1](#ver-107-b-10)
     * [Ver 1.0.6 B1](#ver-106-b-10)
     * [Ver 1.0.5 B1](#ver-105-b-10)
     * [Ver 1.0.3 B1](#ver-103-b-10)
@@ -54,6 +55,27 @@ Once the android emulator ready, Just drag and drop the APK into the emulator to
 
 
 ## Version
+### Ver 1.0.7 B 1.0 
+#### Download
+ * [App APK](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EUFzXEG3w6FBkKW_Ct6FWmcB9ANf1icY4gkhydQS5ZcK_Q)
+
+ * [amaze FileManger](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EXO5PQHNIQJLl6RbMLTNnEcBZdEfDbuTXmylWh0WSRE5rg)
+
+ * [Floris Keyboard](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EdE0egsAmqlNtjC9ZKQkmucBVK2LuLER__i9JUCbhZG7QQ) 
+
+#### Comments
+* version 1.0.6 build 1 has been released in 17-Mar
+
+APP support
+* ..
+
+Newly added features
+* ..
+
+Modified Features
+* ..
+
+
 ### Ver 1.0.6 B 1.0 
 #### Download
  * [App APK](https://accordsoftsys-my.sharepoint.com/:u:/g/personal/manivel_g_accord-soft_com/EU5_9wjnN4JNowtJlGo-47MBUzHyg-lk85s_pb2zNJQWdQ)
